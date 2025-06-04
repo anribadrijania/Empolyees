@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alili\\source\\repos\\Empolyees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|solutionrelative:empolyees\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|solutionrelative:empolyees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|solutionrelative:empolyees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|solutionrelative:empolyees\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|solutionrelative:empolyees\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|solutionrelative:empolyees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|solutionrelative:empolyees\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D342DB62-148E-4DEC-8A9F-766258BAB1CF}|Empolyees\\Empolyees.csproj|C:\\Users\\alili\\source\\repos\\Empolyees\\empolyees\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\alili\\source\\repos\\Empolyees\\Empolyees\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Empolyees\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\alili\\source\\repos\\Empolyees\\Empolyees\\Form1.Designer.cs",
               "RelativeToolTip": "Empolyees\\Form1.Designer.cs",
-              "ViewState": "AgIAACUBAAAAAAAAAAAiwEYBAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T16:31:36.053Z",
               "EditorCaption": ""
@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "Empolyees\\Form1.cs",
               "ToolTip": "C:\\Users\\alili\\source\\repos\\Empolyees\\Empolyees\\Form1.cs",
               "RelativeToolTip": "Empolyees\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwFMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T22:41:33.149Z",
               "EditorCaption": ""
@@ -92,12 +92,11 @@
               "RelativeToolTip": "Empolyees\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T19:54:14.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T19:54:14.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\alili\\source\\repos\\Empolyees\\Empolyees\\Models\\Company.cs",
               "RelativeDocumentMoniker": "Empolyees\\Models\\Company.cs",
@@ -105,21 +104,19 @@
               "RelativeToolTip": "Empolyees\\Models\\Company.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T19:53:55.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T19:53:55.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\alili\\source\\repos\\Empolyees\\Empolyees\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "Empolyees\\DatabaseHelper.cs",
               "ToolTip": "C:\\Users\\alili\\source\\repos\\Empolyees\\Empolyees\\DatabaseHelper.cs",
               "RelativeToolTip": "Empolyees\\DatabaseHelper.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAswHsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T19:52:24.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T19:52:24.985Z"
             },
             {
               "$type": "Document",
