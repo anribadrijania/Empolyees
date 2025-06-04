@@ -63,8 +63,7 @@ namespace Empolyees
         {
             if (listEmployees.SelectedItem is Employee emp)
             {
-                txtFirstName.Text = emp.FirstName;
-                txtLastName.Text = emp.LastName;
+                txtName.Text = emp.FullName;
                 txtAge.Text = emp.Age.ToString();
                 txtPosition.Text = emp.Position;
                 txtSalary.Text = emp.Salary.ToString("F2");

@@ -13,8 +13,8 @@ C:\Users\alili\source\repos\Empolyees\Empolyees\bin\Debug\System.Data.SQLite.Lin
 C:\Users\alili\source\repos\Empolyees\Empolyees\bin\Debug\EntityFramework.xml
 C:\Users\alili\source\repos\Empolyees\Empolyees\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\alili\source\repos\Empolyees\Empolyees\bin\Debug\System.Data.SQLite.xml
-C:\Users\alili\source\repos\Empolyees\Empolyees\obj\Debug\Empolyees.Form1.resources
 C:\Users\alili\source\repos\Empolyees\Empolyees\obj\Debug\Empolyees.csproj.Up2Date
 C:\Users\alili\source\repos\Empolyees\Empolyees\obj\Debug\Empolyees.exe
 C:\Users\alili\source\repos\Empolyees\Empolyees\obj\Debug\Empolyees.pdb
 C:\Users\alili\source\repos\Empolyees\Empolyees\obj\Debug\Empolyees.exe.config
+C:\Users\alili\source\repos\Empolyees\Empolyees\obj\Debug\Empolyees.Form1.resources
