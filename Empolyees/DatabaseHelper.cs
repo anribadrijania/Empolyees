@@ -131,13 +131,13 @@ namespace YourProjectNamespace
             {
                 connection.Open();
 
-                //// Check if Companies table is already filled
-                //string checkQuery = "SELECT COUNT(*) FROM Companies";
-                //using (var checkCmd = new SQLiteCommand(checkQuery, connection))
-                //{
-                //    long count = (long)checkCmd.ExecuteScalar();
-                //    if (count > 0) return; // Already seeded
-                //}
+                // Check if Companies table is already filled
+                string checkQuery = "SELECT COUNT(*) FROM Companies";
+                using (var checkCmd = new SQLiteCommand(checkQuery, connection))
+                {
+                    long count = (long)checkCmd.ExecuteScalar();
+                    if (count > 0) return; // Already seeded
+                }
 
                 // Insert sample companies
                 string[] insertCompanies = new string[]
