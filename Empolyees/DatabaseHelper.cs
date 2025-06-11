@@ -177,34 +177,7 @@ namespace YourProjectNamespace
                 (1, 'Ryan', 'Baker', 34, 'DevOps Engineer', 65000, 'ryan.baker@techsolutions.com', '555-1115', 'RyanBaker.png'),
                 (1, 'Grace', 'Lee', 29, 'Frontend Developer', 58000, 'grace.lee@techsolutions.com', '555-1116', 'GraceLee.png'),
                 (1, 'Mark', 'Davis', 38, 'CTO', 90000, 'mark.davis@techsolutions.com', '555-1117', 'MarkDavis.png'),
-                (1, 'Lia', 'Watson', 35, 'Research Analyst', 58000, 'lia.watson@techsolutions.com', '555-4444', 'LiaWatson.png'),
-                
-                -- Green Earth Corp (2)
-                (2, 'Emily', 'Nguyen', 30, 'Environmental Engineer', 60000, 'emily.nguyen@greenearth.com', '555-2221', 'EmilyNguyen.png'),
-                (2, 'Liam', 'Johnson', 35, 'Research Analyst', 62000, 'liam.johnson@greenearth.com', '555-2222', 'LiamJohnson.png'),
-                (2, 'Olivia', 'Martin', 28, 'Field Technician', 47000, 'olivia.martin@greenearth.com', '555-2223', 'OliviaMartin.png'),
-                (2, 'Ethan', 'Clark', 40, 'Environmental Scientist', 71000, 'ethan.clark@greenearth.com', '555-2224', 'EthanClark.png'),
-                (2, 'Ava', 'Lee', 27, 'GIS Specialist', 53000, 'ava.lee@greenearth.com', '555-2225', 'AvaLee.png'),
-                (2, 'Noah', 'Moore', 31, 'Sustainability Consultant', 64000, 'noah.moore@greenearth.com', '555-2226', 'NoahMoore.png'),
-                (2, 'Chloe', 'Wang', 33, 'Operations Manager', 67000, 'chloe.wang@greenearth.com', '555-2227', 'ChloeWang.png'),
-
-                -- HealthPlus Inc. (3)
-                (3, 'Sophia', 'Brown', 36, 'Registered Nurse', 58000, 'sophia.brown@healthplus.com', '555-3331', 'SophiaBrown.png'),
-                (3, 'Mason', 'Davis', 42, 'General Practitioner', 95000, 'mason.davis@healthplus.com', '555-3332', 'MasonDavis.png'),
-                (3, 'Ella', 'Wilson', 29, 'Lab Technician', 52000, 'ella.wilson@healthplus.com', '555-3333', 'EllaWilson.png'),
-                (3, 'Lucas', 'Taylor', 31, 'Medical Assistant', 48000, 'lucas.taylor@healthplus.com', '555-3334', 'LucasTaylor.png'),
-                (3, 'Mia', 'Anderson', 37, 'Health Administrator', 69000, 'mia.anderson@healthplus.com', '555-3335', 'MiaAnderson.png'),
-                (3, 'Daniel', 'White', 45, 'Chief Medical Officer', 110000, 'daniel.white@healthplus.com', '555-3336', 'DanielWhite.png'),
-                (3, 'Lily', 'Young', 26, 'Receptionist', 42000, 'lily.young@healthplus.com', '555-3337', 'LilyYoung.png'),
-
-                -- FinSecure LLC (4)
-                (4, 'James', 'King', 39, 'Financial Analyst', 72000, 'james.king@finsecure.com', '555-4441', 'JamesKing.png'),
-                (4, 'Isabella', 'Scott', 35, 'Auditor', 75000, 'isabella.scott@finsecure.com', '555-4442', 'IsabellaScott.png'),
-                (4, 'Benjamin', 'Hughes', 41, 'Compliance Officer', 80000, 'benjamin.hughes@finsecure.com', '555-4443', 'BenjaminHughes.png'),
-                (4, 'Charlotte', 'Green', 30, 'Accountant', 65000, 'charlotte.green@finsecure.com', '555-4444', 'CharlotteGreen.png'),
-                (4, 'Michael', 'Adams', 43, 'CFO', 120000, 'michael.adams@finsecure.com', '555-4445', 'MichaelAdams.png'),
-                (4, 'Amelia', 'Bennett', 33, 'Risk Manager', 85000, 'amelia.bennett@finsecure.com', '555-4446', 'AmeliaBennett.png'),
-                (4, 'Henry', 'Wood', 36, 'Investment Advisor', 90000, 'henry.wood@finsecure.com', '555-4447', 'HenryWood.png');";
+                (1, 'Lia', 'Watson', 35, 'Research Analyst', 58000, 'lia.watson@techsolutions.com', '555-4444', 'LiaWatson.png');";
 
                 using (var cmd = new SQLiteCommand(insertEmployees, connection))
                 {
